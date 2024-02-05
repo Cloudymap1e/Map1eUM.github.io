@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to visit this website!
 
-I am currently a Computer Science student at UBC in third year. My primary interests lie in Machine learning/Computer Vision. I am also interested in computer security and database system. 
+I am currently a Computer Science student at UBC in third year. My primary interests lie in Machine learning/Computer Vision. I am also interested in computer security and database system.
 
 I also have a strong fundamental background in Mathematics and Physics, and am interested in Algorithms design and analysis and proof theory thanks to my intense training during high school gifted program.
 
