@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 2366 Main Mall, Vancouver, BC V6T 1Z4</p>
+    <p>2366 Main Mall, Vancouver, BC V6T 1Z4</p>
     <p>5983 Gray Ave</p>
     <p>Vancouver, Canada</p>
 
