@@ -13,7 +13,7 @@ profile:
     <p>5983 Gray Ave</p>
     <p>Vancouver, Canada</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +27,4 @@ I also have a strong fundamental background in Mathematics and Physics, and am i
 
 Currently, my new primary project is to create an algorithmic trading platform that can also incorporated automatically fetched news and fundamentals.
 
-I yearn to appreciate the splendor of the human intellect, to cast my gaze upon the timeless constellations and vast oceans, witnessing the eternal and unchanging beauty they hold.
+我想欣赏人类的心智荣耀， 想要在纷繁变换的世界多看一眼永恒不变的星辰大海
