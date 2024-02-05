@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of British Columbia</a>.  2366 Main Mall.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>555 2366 Main Mall, Vancouver, BC V6T 1Z4</p>
+    <p>5983 Gray Ave</p>
+    <p>Vancouver, Canada</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
