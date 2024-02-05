@@ -19,11 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. 
-Link to your favorite [subreddit](http://reddit.com). 
-You can put a picture in, too. 
+Welcome to visit this website!
 
-Put your address / P.O. box / other info right below your picture. 
-You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Computer Science student at UBC in third year. My primary interests lie in Machine learning/Computer Vision. I am also interested in computer security and database system. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also have a strong fundamental background in Mathematics and Physics, and am interested in Algorithms design and analysis and proof theory thanks to my intense training during high school gifted program.
+
+Currently, my new primary project is to create an algorithmic trading platform that can also incorporated automatically fetched news and fundamentals.
+
+I yearn to appreciate the splendor of the human intellect, to cast my gaze upon the timeless constellations and vast oceans, witnessing the eternal and unchanging beauty they hold.
