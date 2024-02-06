@@ -143,15 +143,23 @@
   ],
   "interests": [
     {
+      "name": "Mathematics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Differential Geometry",
+        "Real Analysis",
+        "Stochastic process and financial mathematics",
+        "Topology"
+
+      ]
+    },
+    {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Field Theory",
+        "Mathematical Physics",
+        "General Relativity"
       ]
     }
   ],
