@@ -131,7 +131,7 @@
 
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -174,15 +174,20 @@
       ]
     }
   ],
-
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "CloudyBlue",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-15",
+      "highlights": ["Concurrency", "React", "Java"],
+      "summary": "This project used React, Java, Oracle/SQL* Plus utilized Microsoft's platform and Graph API to build a web drive for users. It supports file sharing through links and optimizes disk storage by intelligently managing duplicate files. The relational model is designed based on Oracle. Performance isn't ideal during pressure test, so Performance wasenhanced during apressure test with concurrent file requests using ReactPHP, yielding 90% quicker response time. implemented database security measures, including DBMS ASSERT for SQL injection filtering and security testing to prevent most basic injection attacks, ensuring system integrity."
+    },
+    {
+      "name": "UBC Course Finder",
+      "startDate": "2023-10-01",
+      "endDate": "2023-12-15",
+      "highlights": ["Concurrency", "NodeJS"],
+      "summary": "This project offers a web interface for accessing detailed information on selected or potential course sections, serving as a valuable resource for students. developed concurrency system for high performance(improved 90% for response speed). Developed a pretty minimalism front-end interface with React."
     }
   ]
 }
