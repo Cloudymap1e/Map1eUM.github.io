@@ -21,10 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to visit this website!
 
-I am currently a Computer Science student at UBC in third year. My primary interests lie in Machine learning/Computer Vision. I am also interested in computer security and database system.
+I am currently a Computer Science student at UBC in third year. My primary interests lie in Machine learning/Computer Vision. I am also interested in web development and automation. And I am curious and willing to learn and work in new areas.
 
-I also have a strong fundamental background in Mathematics and Physics, and am interested in Algorithms design and analysis and proof theory thanks to my intense training during high school gifted program.
+I also have a strong fundamental background in Mathematics and Physics, and am interested in Algorithms design and analysis and proof theory thanks to my intense training and interests in these areas.
 
-Currently, my new primary project is to create an algorithmic trading platform that can also incorporated automatically fetched news and fundamentals.
+Currently, my new primary ongoing project is to create an algorithmic trading platform that can also incorporated automatically fetched news and fundamentals.
 
-我想欣赏人类的心智荣耀， 想要在纷繁变换的世界多看一眼永恒不变的星辰大海
+I am looking for a co-op position in 2024 fall. 
