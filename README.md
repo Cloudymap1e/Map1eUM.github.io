@@ -275,6 +275,7 @@ You can add extra information to a publication, like a PDF file in the [assets/p
 
 ---
 
+
 ### Collections
 
 This Jekyll theme implements `collections` to let you break up your work into categories. The theme comes with two default collections: `news` and `projects`. Items from the `news` collection are automatically displayed on the home page. Items from the `projects` collection are displayed on a responsive grid on projects page.
