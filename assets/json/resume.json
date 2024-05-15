@@ -145,33 +145,17 @@
     {
       "name": "Mathematics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Differential Geometry",
-        "Real Analysis",
-        "Stochastic process and financial mathematics",
-        "Topology",
-        "Proof Theory"
-      ]
+      "keywords": ["Differential Geometry", "Real Analysis", "Stochastic process and financial mathematics", "Topology", "Proof Theory"]
     },
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Field Theory",
-        "Mathematical Physics",
-        "General Relativity"
-      ]
+      "keywords": ["Quantum Field Theory", "Mathematical Physics", "General Relativity"]
     },
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computability",
-        "Distributed system",
-        "Machine learning",
-        "Computer Vision",
-        "Automation"
-      ]
+      "keywords": ["Computability", "Distributed system", "Machine learning", "Computer Vision", "Automation"]
     }
   ],
   "projects": [

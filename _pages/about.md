@@ -27,4 +27,4 @@ I also have a strong fundamental background in Mathematics and Physics, and am i
 
 Currently, my new primary ongoing project is to create an algorithmic trading platform that can also incorporated automatically fetched news and fundamentals.
 
-I am looking for a co-op position in 2024 fall. 
+I am looking for a co-op position in 2024 fall.
