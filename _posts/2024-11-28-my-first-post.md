@@ -24,4 +24,4 @@ The finals are coming, dates are set. I am not really stressed about this term, 
 
 Deep inside I may be disappointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill yourself or make it alive.
 
-In the future I may write more posts with more thinking, some deep insights and some inspirations and so on. Just using streaming video to passively record the life is not good enough, at least in the aspect of improving my productivity.
+In the future I may write more posts - dated or topic, with more thinking, some deep insights and some inspirations and so on. Just using streaming video to passively record the life is not good enough, at least in the aspect of improving my productivity.
