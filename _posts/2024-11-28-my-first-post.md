@@ -21,4 +21,4 @@ The finals are coming, dates are set. I am not really stressed about this term, 
 
 ![Finals Dates](../assets/img/finals.png)
 
-Deep inside I may be disapointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill youself or make it alive. 
+Deep inside I may be disapointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill youself or make it alive.
