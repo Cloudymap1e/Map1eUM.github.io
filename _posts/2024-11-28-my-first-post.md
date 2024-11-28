@@ -19,6 +19,6 @@ I haven't wrote posts for a long time. I stop ding this when I decided to use 24
 
 The finals are coming, dates are set. I am not really stressed about this term, because unlike previous academic years I have keep the pace most of the time and will just be fine to get above avg grades, but I may not be able to achieve a excellent grade I anticipated. The dates are:
 
-![Finals Dates](../assets/img/finals.png)
+![Finals Dates](/assets/img/finals.png)
 
 Deep inside I may be disapointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill youself or make it alive.
