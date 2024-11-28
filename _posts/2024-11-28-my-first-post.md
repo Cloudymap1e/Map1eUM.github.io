@@ -15,10 +15,13 @@ I am working on Microlight project, a system that makes AI have the highest leve
 
 In the meanwhile, I will keep trying my best in investing in the US equity market and other financial instruments. I realized that my career is kind of dead and maybe the investment and quant trading can be my next direction. I will try my best to explore the road for me.
 
-I haven't wrote posts for a long time. I stop ding this when I decided to use 24 hours streaming with auto recording by youtube to replace the dailt note and reflection, because I ibelieve soon I will just use AI to generate a summary based on my everyday complete recordings about what I have done. This is truly interesting. (while I am typing this post my stream is still on!)
+I haven't written posts for a long time. I stopped doing this when I decided to use 24-hour streaming with auto recording by YouTube to replace the daily note and reflection, because I believe soon I will just use AI to generate a summary based on my everyday complete recordings about what I have done. This is truly interesting. (while I am typing this post my stream is still on!)
 
 The finals are coming, dates are set. I am not really stressed about this term, because unlike previous academic years I have keep the pace most of the time and will just be fine to get above avg grades, but I may not be able to achieve a excellent grade I anticipated. The dates are:
 
 <img src="/assets/img/finals.png" width="100%" alt="Finals Dates">
 
-Deep inside I may be disapointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill youself or make it alive.
+
+Deep inside I may be disappointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill yourself or make it alive.
+
+In the future I may write more posts with more thinking, some deep insights and some inspirations and so on. Just using streaming video to passively record the life is not good enough, at least in the aspect of improving my productivity.
