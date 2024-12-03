@@ -11,7 +11,7 @@ Welcome to my first post on this blog! I'm excited to start sharing my thoughts 
 
 This post is written on Thanksgiving Day, that marked my almost ending of my first half of final academic year life... I decided to move out of that shitty basement and it's such a good decision that makes me have much more time and energy to focus on my important things.
 
-I am working on Microlight project, a system that makes AI have the highest level of intelligence and execute on behalf of humans for many tasks. This project will have a lot of phases considering my current knowledge level and it's a long way to go. I will first implement most basic functions and resource-related programs first, including CAPTCHA, emails, phone, payment verifications and many things like this. I will just do these tedious work little by little.
+I am working on Microlight project, a system that makes AI have the highest level of intelligence and execute on behalf of humans for many tasks. This project will have a lot of phases considering my current knowledge level and it's a long way to go. I will first implement most basic functions and resource-related programs first, including the automation ofCAPTCHA, emails, phone, payment verifications and many things like this. I will just do these tedious work little by little.
 
 In the meanwhile, I will keep trying my best in investing in the US equity market and other financial instruments. I realized that my career is kind of dead and maybe the investment and quant trading can be my next direction. I will try my best to explore the road for me.
 
@@ -25,3 +25,5 @@ The finals are coming, dates are set. I am not really stressed about this term, 
 Deep inside I may be disappointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill yourself or make it alive.
 
 In the future I may write more posts - dated or topic, with more thinking, some deep insights and some inspirations and so on. Just using streaming video to passively record the life is not good enough, at least in the aspect of improving my productivity.
+
+And happy thanksgiving! although my current state of like is really a irony to this holiday. Tonight when I am at X050 lab there is a short guy keeps talking(annoying!) and there is a pretty girl sitting next to him. I haven't been excited about any girl for a long time, but this girl is really pretty and I can't help but look at her, and think about my relationship status, like a dessert. 
