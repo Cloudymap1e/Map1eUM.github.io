@@ -8,7 +8,6 @@ category: work
 related_publications: true
 ---
 
-
 This project is a automation system utilize AI for many
 
 Every project has a beautiful feature showcase page.

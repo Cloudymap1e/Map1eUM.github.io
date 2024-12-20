@@ -21,9 +21,8 @@ The finals are coming, dates are set. I am not really stressed about this term, 
 
 <img src="/assets/img/finals.png" width="100%" alt="Finals Dates">
 
-
 Deep inside I may be disappointed by my current life. I am not sure if I can make it. But whining is truly useless, either kill yourself or make it alive.
 
 In the future I may write more posts - dated or topic, with more thinking, some deep insights and some inspirations and so on. Just using streaming video to passively record the life is not good enough, at least in the aspect of improving my productivity.
 
-And happy thanksgiving! although my current state of like is really a irony to this holiday. Tonight when I am at X050 lab there is a short guy keeps talking(annoying!) and there is a pretty girl sitting next to him. I haven't been excited about any girl for a long time, but this girl is really pretty and I can't help but look at her, and think about my relationship status, like a dessert. 
+And happy thanksgiving! although my current state of like is really a irony to this holiday. Tonight when I am at X050 lab there is a short guy keeps talking(annoying!) and there is a pretty girl sitting next to him. I haven't been excited about any girl for a long time, but this girl is really pretty and I can't help but look at her, and think about my relationship status, like a dessert.
